@@ -1,7 +1,7 @@
-import React from "react";
-import "./style.css";
+import React from 'react';
+import './style.css';
 
-export default function AuthorQuiz() {
+function AuthorQuiz() {
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
@@ -9,3 +9,4 @@ export default function AuthorQuiz() {
     </div>
   );
 }
+export default AuthorQuiz;
